@@ -1,4 +1,4 @@
-# Whale Alerts Dapp 🐋🚨
+# Whale Alerts Dapp 🐋
 
 ## About
 

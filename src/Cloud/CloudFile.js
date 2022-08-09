@@ -2,7 +2,7 @@
 // * add address to watch list
 // * alert on change of address state
 
-// todo: implement various conditions to apply to wathced addresses
+// todo: implement various conditions to apply to watched addresses
 // todo: cross-chain compatible.
 // todo: all hardcoded variables and settings are exposed to frontend UI
 // todo: user accounts login/logout/etc
