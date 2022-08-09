@@ -11,8 +11,8 @@
 
 const sendTelegramAlert = async (tx_data, token_data) => {
   // Telegram creds
-  const telegram_bot_id = "xxx"; // <-- ENTER TELEGRAM BOT ID
-  const chat_id = "-xxx"; // <-- ENTER TELEGRAM CHAT ID
+  const telegram_bot_id = "5492812180:AAG5CvUlA8FJhTfzsE1Axh3EM5NFveosFRY"; // <-- ENTER TELEGRAM BOT ID
+  const chat_id = "-1001204481084"; // <-- ENTER TELEGRAM CHAT ID
 
   // alert message
   let message = "https://etherscan.io/tx/" + request.get("hash");
